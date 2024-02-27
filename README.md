@@ -3,7 +3,7 @@
     This Webpage is Basic TO DO List
 
 
-### By Priyanka Kumari
+### By Anish Singh
 
 
 ### Technologies Used
@@ -21,4 +21,4 @@
     We can further develop it in day to day life by adding more features to it.
 
 
-### Author name: PRIYANKA KUMARI
+### Author name:Anish Singh
